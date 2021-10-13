@@ -1,0 +1,7 @@
+C:\Users\MY\source\repos\Core Functional Programing\Core Functional Programing\obj\Debug\Core Functional Programing.csproj.AssemblyReference.cache
+C:\Users\MY\source\repos\Core Functional Programing\Core Functional Programing\obj\Debug\Core Functional Programing.csproj.CoreCompileInputs.cache
+C:\Users\MY\source\repos\Core Functional Programing\Core Functional Programing\bin\Debug\Core Functional Programing.exe.config
+C:\Users\MY\source\repos\Core Functional Programing\Core Functional Programing\bin\Debug\Core Functional Programing.exe
+C:\Users\MY\source\repos\Core Functional Programing\Core Functional Programing\bin\Debug\Core Functional Programing.pdb
+C:\Users\MY\source\repos\Core Functional Programing\Core Functional Programing\obj\Debug\Core Functional Programing.exe
+C:\Users\MY\source\repos\Core Functional Programing\Core Functional Programing\obj\Debug\Core Functional Programing.pdb
